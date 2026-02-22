@@ -1,7 +1,0 @@
-{
-  "name": "AfriSense - Market Intelligence Engine",
-  "description": "Enterprise-grade Market & Competitive Intelligence platform focused on Africa. Powered by Athena Agentic AI, dynamic battlecards, and strategic market mapping.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
